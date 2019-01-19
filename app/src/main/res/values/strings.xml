@@ -2,6 +2,6 @@
     <string name="app_name">My Info</string>
     <string name="ButtonText">My Info</string>
     <string name="myInfo">
-        My Name Is Ricky Yang and I am a senior at Northeastern State University and
-        will be graduating in May of 2019 with my second bachelor\'s degree in computer science.</string>
+        My name is Ricky Yang and I am a senior at Northeastern State University.
+        In May of 2019, I will be graduating with my second bachelor\'s degree in computer science.</string>
 </resources>
